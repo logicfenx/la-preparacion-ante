@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/la-preparacion-ante",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a la-preparacion-ante",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/la-preparacion-ante.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://losnegocios.mx/preparacion-ante-sismos/"
+    },
+    "homepage": "https://losnegocios.mx/preparacion-ante-sismos/"
+}
